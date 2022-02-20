@@ -16,6 +16,6 @@
   "languages": [
   ],
   "url": "https://github.com/Redrazors/foundrytoken",
-  "manifest": "https://github.com/Redrazors/foundrytoken/releases/download/latest/module.json",
-  "download": "https://github.com/Redrazors/foundrytoken/releases/download/1.0.0/module.zip"
+  "manifest": "https://github.com/Redrazors/foundrytoken/releases/download/1/module.json",
+  "download": "https://github.com/Redrazors/foundrytoken/releases/download/1/module.zip"
 }
